@@ -1,4 +1,4 @@
-## Commands I choose: ```grep```
+## Command I choose: ```grep```
 The first interesting command option for ```grep``` is ```ls |grep ```. The command is used to find all of the files in the directory that contain the string in its name. 
 ### Example1:
 ```
